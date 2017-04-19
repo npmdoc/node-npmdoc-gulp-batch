@@ -1,9 +1,14 @@
-# api documentation for  [gulp-batch (v1.0.5)](https://github.com/floatdrop/gulp-batch)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-batch.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-batch) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-batch.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-batch)
+# npmdoc-gulp-batch
+
+#### api documentation for  [gulp-batch (v1.0.5)](https://github.com/floatdrop/gulp-batch)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-batch.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-batch) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-batch.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-batch)
+
 #### Event batcher for gulp-watcher
 
-[![NPM](https://nodei.co/npm/gulp-batch.png?downloads=true)](https://www.npmjs.com/package/gulp-batch)
+[![NPM](https://nodei.co/npm/gulp-batch.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-batch)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-batch/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-gulp-batch_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-batch/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-gulp-batch/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-batch/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-batch/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-batch/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-gulp-batch/build/screenCapture.npmPackageListing.svg)
 
@@ -55,13 +60,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "floatdrop",
-            "email": "floatdrop@gmail.com"
+            "name": "floatdrop"
         }
     ],
     "name": "gulp-batch",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/floatdrop/gulp-batch.git"
@@ -73,16 +76,6 @@
     "version": "1.0.5"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module gulp-batch](#apidoc.module.gulp-batch)
-
-
-
-# <a name="apidoc.module.gulp-batch"></a>[module gulp-batch](#apidoc.module.gulp-batch)
 
 
 
